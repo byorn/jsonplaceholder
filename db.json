@@ -1,7 +1,10 @@
-{
+{ "people": [
+  {
   "firstName":"byorn",
   "lastName":"desilva",
   "email":"byorn.desilva@gmail.com",
   "acceptedTerms":true,
   "jobType":"full-time"
+  }
+  ]
 }
